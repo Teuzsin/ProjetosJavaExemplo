@@ -1,4 +1,4 @@
-// TeuSziz☄ 20/07/2026
+package aboutMeStudy;// TeuSziz☄ 20/07/2026
 // Estudo deo controle de fluxo (Try e Catch)
 
 
@@ -13,11 +13,11 @@ public class aboutMe{
 
             Scanner scanner = new Scanner(System.in).useLocale(Locale.US); //define as funções de conversão do scanner
 
-            System.out.println("Digite seu nome:"); // recebe o nome
+            System.out.println("Digite seu nome (primeiro nome):"); // recebe o nome
             String nome = scanner.next();
 
             System.out.println("Digite seu sobrenome:"); // recebe o sobrenome
-            String sobrenome = scanner.next();
+            String sobrenome = scanner.nextLine();
 
             System.out.println("Digite sua idade:"); // recebe a idade
             int idade = scanner.nextInt();
