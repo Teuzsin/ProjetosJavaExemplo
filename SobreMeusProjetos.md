@@ -37,7 +37,7 @@ Cada pasta contém um projeto independente, com seu próprio código-fonte e doc
 | SimunDeliveryApp  | Simulação de um aplicativo de delivery desenvolvido em Java.         |
 | SmartTV           | Simulação de uma Smart TV utilizando conceitos básicos da linguagem. |
 | Sistema Bancário  | Exercícios envolvendo entrada de dados e controle de fluxo.          |
-| Controle de Fluxo | Exercícios utilizando estruturas condicionais e de repetição.        |
+| AboutMe | Exercícios utilizando estruturas condicionais e de repetição.        |
 
 ## 📈 Evolução
 
