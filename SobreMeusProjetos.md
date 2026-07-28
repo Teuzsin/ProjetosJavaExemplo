@@ -18,8 +18,6 @@ Projetos-Java/
 ├── SimunDeliveryApp/
 ├── SmartTV/
 ├── SistemaBancario/
-├── ControleFluxo/
-├── Desafios/
 └── README.md
 ```
 
