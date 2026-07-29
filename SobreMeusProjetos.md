@@ -18,6 +18,7 @@ Projetos-Java/
 ├── SimunDeliveryApp/
 ├── SmartTV/
 ├── SistemaBancario/
+├── hierarquiaDeExceptionsExemple/
 └── README.md
 ```
 
